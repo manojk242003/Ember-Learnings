@@ -9,7 +9,7 @@ export default function App() {
 
       <Image
         source={require("./assets/ember.jpeg")}
-        style={{ width: 150, height: 150, borderRadius: 30, marginBottom: 20 }}
+        style={{ width: 150, height: 150, borderRadius: 50, marginBottom: 20 }}
       />
       <TouchableOpacity className="rounded-lg">
         <Text className="text-black text-5xl font-bold">Ember</Text>
